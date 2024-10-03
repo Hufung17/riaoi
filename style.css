@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+background-color: lightblue;}
+header{margin-top:-1%;
+       margin-left:-1%;
+       height: 15%;
+       width:102%;
+       background-color: darkblue;
+}
+footer{margin-left: -1%;
+       height:10%;
+       width:102%;
+       background-color: #85d6ff;
+}
+article{width: 100%;
+       }
+button{border: 0px;
+       height: 30px;
+      background-color: transparent;
+      color:lightblue;
+      border-color: darkblue;
+      }
+div{height: 100%;}
+.bs{height: 30px;
+      background-color: lightblue;
+      color:blue;
+      border-color: darkblue;
+      }
+iframe{aspect-ratio: 16/9;}
